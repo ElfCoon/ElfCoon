@@ -1,9 +1,16 @@
 - 👋 Hi, I’m Julius 
 - 👀 I’m interested in Machine Learning and IOT, some Front End Development (React JS)
-- 🌱 I’m currently harnessing my Data Science Skills 
+- 🌱 I’m currently harnessing my Data Science Skills - ALX
 - 💞️ I’m looking to collaborate on Machine Learning Projects and React 
-- 📫 How to reach me @juliusjunior20 on Twitter
+- 📫 How to reach me @juniotjulius81@gmail.com
 
+TOOLS
+- AWS Sagemaker
+- Pytorch 
+- Keras
+- Python
+- React
+- Docker for deployment and project management
 <!---
 ElfCoon/ElfCoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
