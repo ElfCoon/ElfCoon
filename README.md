@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and IOT, some Front End Development (React JS)
 - 🌱 I’m currently harnessing my Data Science Skills - ALX
 - 💞️ I’m looking to collaborate on Machine Learning Projects and React 
-- 📫 How to reach me @juniotjulius81@gmail.com
+- 📫 How to reach me @ juniorjulius81@gmail.com
 
 TOOLS
 - AWS Sagemaker
